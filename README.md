@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kmahesh121785/NewProject/_apis/build/status/kmahesh121785.pipelines-java)](https://dev.azure.com/kmahesh121785/NewProject/_build/latest?definitionId=1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
